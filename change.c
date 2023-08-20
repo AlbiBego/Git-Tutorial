@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("change update 2\n");
+	pritnf("change\n");
 	return 0;
 }

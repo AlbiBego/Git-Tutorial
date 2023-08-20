@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("index\n");
-	printf("version 3\n");
+	pritnf("index\n");
+	pritnf("version 1\n");
 	return 0;
 }
