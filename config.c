@@ -3,6 +3,6 @@
 int main()
 {
 	printf("config\n");
-	printf("version 2\n");
+	printf("version 3\n");
 	return 0;
 }
