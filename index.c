@@ -3,6 +3,6 @@
 int main()
 {
 	pritnf("index\n");
-	pritnf("version 12\n");
+	pritnf("version 13\n");
 	return 0;
 }
